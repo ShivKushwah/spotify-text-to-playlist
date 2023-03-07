@@ -14,8 +14,10 @@ pip3 install requests
 ```
 
 ## Expected output
+```
 ➜  spotify-text-to-playlist git:(main) ✗ /usr/bin/python3 main.py
 Parsed songs from text file
 Created new playlist with id 1kw8ERacNJ5pzKx5liIsdw
 Finished adding songs to new playlist
 Done!
+```
